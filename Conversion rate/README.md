@@ -42,9 +42,10 @@ Créer un modèle de prédiction du taux de conversion (l'utilisateur va-t-il co
 
 ### * Matrice de confusion et courbe roc
 
-![](https://github.com/abdessamad-ca/Portfolio-Data/blob/master/Conversion%20rate/5.PNG)
+![](https://github.com/abdessamad-ca/Portfolio-Data/blob/master/Conversion%20rate/5.png)
 
-![](https://github.com/abdessamad-ca/Portfolio-Data/blob/master/Conversion%20rate/6.PNG)
+![](https://github.com/abdessamad-ca/Portfolio-Data/blob/master/Conversion%20rate/6.png)
+
 # **Conclusion**
 ### 
 #### Le site fonctionne très bien pour les jeunes utilisateurs(moins de 30 ans) avec un taux de conversion trés elevé , Il faut ajouter plus de services adapter cibler cette catégorie d'âge.(ads, pomos,services...) 
