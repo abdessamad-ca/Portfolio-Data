@@ -8,7 +8,8 @@ More information about me: [LinkedIn](https://www.linkedin.com/in/abdessamad-zar
 
 
 <br/>
-[Project -- Conversion Rate](https://github.com/abdessamad-ca/Portfolio-Data/tree/master/Conversion%20rate)
+
+[Project -- Conversion Rate](https://github.com/abdessamad-ca/Portfolio-Data/tree/master/Conversion%20rate)<br/>
 
 Build a model that will predict the conversion rate of customers on a website and make recommendations to our marketing team in order to increase our revenue. (Data visualization, Logistic Regression, Random Sampling, Ridge, Lasso, ElasticNet, Random Forest, SmoteTomek)<br/>
 <br/>
