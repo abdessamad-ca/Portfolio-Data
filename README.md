@@ -29,6 +29,14 @@ Give recommendations as to where drivers should be in order to maximize their ch
 The problem to be solved by this capstone project is how to identify which tweets are about ‘real disasters’ and which one’s aren’t. This project will use data science approach to build a machine learning classifier model to predict which tweets are about ‘real disasters’ and which one’s aren’t. (LSTM, NLP, Spacy, NLTK, Deep Learning)<br/>
 <br/>
 <br/>
+
+[Project -- Predicting Credit Card Approvals](https://github.com/abdessamad-ca/Portfolio-Data/tree/master/Projet%20pr%C3%A9diction%20des%20vente%20black%20friday)<br/>
+
+
+
+A retail company “ABC Private Limited” wants to understand the customer purchase behaviour (specifically, purchase amount) against various products of different categories. They have shared purchase summary of various customers for selected high volume products from last month. The data set also contains customer demographics (age, gender, marital status, citytype, stayincurrentcity), product details (productid and product category) and Total purchaseamount from last month.
+
+
 [Project -- Predicting Credit Card Approvals]()
 
 Build a machine learning model that can predict if an individual's application for a credit card will be accepted. (Logistic Regression)
