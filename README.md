@@ -6,10 +6,7 @@ More information about me: [LinkedIn](https://www.linkedin.com/in/abdessamad-zar
 
 
 
-[Project -- Predicting Credit Card Approvals]()
 
-Build a machine learning model that can predict if an individual's application for a credit card will be accepted. (Logistic Regression)
-<br/>
 <br/>
 [Project -- Conversion Rate](https://github.com/abdessamad-ca/Portfolio-Data/tree/master/Conversion%20rate)
 
@@ -23,6 +20,17 @@ Build a model that will predict whether the purchase of a piece of clothing shou
 [Project -- Uber Pickups](https://github.com/abdessamad-ca/Portfolio-Data/tree/master/Projet%20UBER)<br/>
 
 Give recommendations as to where drivers should be in order to maximize their chances of finding a race on schedule and build model to predict number of trips by hours. (K-means, DBSCAN, ARIMA, SARIMA)<br/>
+
+<br/>
+
+[Project -- Real or Not? NLP with Disaster Tweets](https://github.com/abdessamad-ca/Portfolio-Data/tree/master/Projet%20NLP%20Real%20or%20Not%20with_Disaster)
+
+The problem to be solved by this capstone project is how to identify which tweets are about ‘real disasters’ and which one’s aren’t. This project will use data science approach to build a machine learning classifier model to predict which tweets are about ‘real disasters’ and which one’s aren’t. (LSTM, NLP, Spacy, NLTK, Deep Learning)<br/>
+<br/>
+<br/>
+[Project -- Predicting Credit Card Approvals]()
+
+Build a machine learning model that can predict if an individual's application for a credit card will be accepted. (Logistic Regression)
 <br/>
 
 [Project -- SMS Spam (With Flask)]()<br/>
@@ -38,9 +46,3 @@ Build a model that will predict 9 labels purely (good_for_lunch, good_for_dinner
 [Project -- Object Detection with YoloV3]()
 
 The detection of objects in an image with Yolov3. (learn how to set up an environment and use a Github project)<br/>
-<br/>
-
-[Project -- Real or Not? NLP with Disaster Tweets]()
-
-The problem to be solved by this capstone project is how to identify which tweets are about ‘real disasters’ and which one’s aren’t. This project will use data science approach to build a machine learning classifier model to predict which tweets are about ‘real disasters’ and which one’s aren’t. (LSTM, NLP, Spacy, NLTK, Deep Learning)<br/>
-<br/>
